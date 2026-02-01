@@ -20,6 +20,4 @@ Este repositório não possui fins comerciais.
 
 ## 📸 Preview do Projeto
 
-> Aqui você pode adicionar uma imagem de como o projeto ficou após a implementação:
-
 ![Preview da Landing Page](https://github.com/sabrinnesousa/Landing-Page-Starbucks/raw/main/preview.png)
